@@ -1,2 +1,7 @@
 buenas
+<<<<<<< HEAD
 modificado 08/04
+=======
+Estoy escribiendo desde casa
+Encantado
+>>>>>>> da69a9756636925fc986d6facb3bc08201b5e5ae
